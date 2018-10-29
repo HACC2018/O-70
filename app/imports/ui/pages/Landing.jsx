@@ -1,5 +1,5 @@
 import React from 'react';
-import { Grid, Header } from 'semantic-ui-react';
+import { Grid, Header, Button } from 'semantic-ui-react';
 
 /** A simple static component to render some text for the landing page. */
 class Landing extends React.Component {
@@ -17,6 +17,15 @@ class Landing extends React.Component {
               eveniet, ut et voluptates repudiandae sint et molestiae non-recusandae. Itaque earum rerum hic tenetur a
               sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut
             </Header>
+            <Button basic color='green'>
+              Green
+            </Button>
+            <Button basic color='green'>
+              Green
+            </Button>
+            <Button basic color='green'>
+              Green
+            </Button>
           </Grid>
         </div>
     );
