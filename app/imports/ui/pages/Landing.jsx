@@ -8,14 +8,12 @@ class Landing extends React.Component {
         <div className='landing-background-image'>
           <Grid verticalAlign='middle' textAlign='center' container>
             <Header as='h3' inverted>
-              Davin is a big boy eos et accusamus et iusto odio dignissimos ducimus, qui blanditiis praesentium voluptatum deleniti
-              atque corrupti, quos dolores et quas molestias excepturi sint, obcaecati cupiditate non-provident,
-              similique sunt in culpa, qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum
-              quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio,
-              cumque nihil impedit, quo minus id, quod maxime placeat, facere possimus, omnis voluptas assumenda est,
-              omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe
-              eveniet, ut et voluptates repudiandae sint et molestiae non-recusandae. Itaque earum rerum hic tenetur a
-              sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut
+              As trash continues to be a problem for our islands, we require better ways to collect and represent efforts 
+              around the state to reduce it.
+              
+              Humabala Opala is a user-friendly way to input data of a wide range of waste items and return a systematic
+              analysis of it, visually and numerically. This will contribute to efforts across campuses in the UH system to 
+              quantify our push towards a more sustainable future. 
             </Header>
             <Button basic color='green'>
               Green
