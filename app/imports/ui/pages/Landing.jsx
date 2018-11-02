@@ -15,17 +15,17 @@ class Landing extends React.Component {
               analysis of it, visually and numerically. This will contribute to efforts across campuses in the UH system to 
               quantify our push towards a more sustainable future. 
             </Header>
-            <Button basic color='UHM'>
-              Green
+            <Button basic color='green'>
+              UHM
             </Button>
-            <Button basic color='KCC'>
-              Green
+            <Button basic color='green'>
+              KCC
             </Button>
-            <Button basic color='UHMC'>
-              Green
+            <Button basic color='green'>
+              UHMC
             </Button>
-            <Button basic color='KauaiCC'>
-              Green
+            <Button basic color='green'>
+              KauaiCC
             </Button>
           </Grid>
         </div>
