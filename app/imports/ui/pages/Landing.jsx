@@ -20,6 +20,7 @@ class Landing extends React.Component {
             </Header>
 
             <Button basic color='green'>
+<<<<<<< HEAD
               UH Manoa
             </Button>
             <Button basic color='green'>
@@ -27,6 +28,18 @@ class Landing extends React.Component {
             </Button>
             <Button basic color='green'>
               Campus
+=======
+              UHM
+            </Button>
+            <Button basic color='green'>
+              KCC
+            </Button>
+            <Button basic color='green'>
+              UHMC
+            </Button>
+            <Button basic color='green'>
+              KauaiCC
+>>>>>>> 94a9f4ef6e2d80f63da9f418a9f03e4be9aa4118
             </Button>
           </Grid>
         </div>
